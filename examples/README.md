@@ -2,13 +2,15 @@
 
 The `ballerinax/ebay.metadata` connector provides practical examples illustrating usage in various scenarios.
 
-[//]: # (TODO: Add examples)
-1. 
-2. 
+1. **[Listing policy review](https://github.com/ballerina-platform/module-ballerinax-ebay.metadata/tree/main/examples/listing_policy_review)** - Review the currency, category, item condition, listing structure and return policies that apply to one category.
+
+2. **[Shipping options overview](https://github.com/ballerina-platform/module-ballerinax-ebay.metadata/tree/main/examples/shipping_options_overview)** - List the carriers, handling times and shipping services of a marketplace.
 
 ## Prerequisites
 
-[//]: # (TODO: Add prerequisites)
+1. Generate eBay credentials to authenticate the connector as described in the [Setup guide](https://central.ballerina.io/ballerinax/ebay.metadata/latest#setup-guide).
+
+2. For each example, create a `Config.toml` in the related example folder with the required configuration, as described in the example's own README.
 
 ## Running an example
 
